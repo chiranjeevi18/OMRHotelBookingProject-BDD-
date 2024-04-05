@@ -1,0 +1,17 @@
+com\omrbranch\base\BaseClass.class
+com\omrbranch\base\BaseClass$1.class
+com\omrbranch\runner\TestRunnerClass2.class
+com\omrbranch\reports\Reporting.class
+com\omrbranch\step\TC2_ExploreHotelStep.class
+com\omrbranch\step\TC4_BookHotelStep.class
+com\omrbranch\page\Hooks.class
+com\omrbranch\runner\TestRunnerClass.class
+com\omrbranch\page\LoginPage.class
+com\omrbranch\page\ChangeBooking.class
+com\omrbranch\page\CancelBooking.class
+com\omrbranch\step\TC3_SelectHotelStep.class
+com\omrbranch\page\SelectHotel.class
+com\omrbranch\step\TC1_LoginStep.class
+com\omrbranch\page\BookHotel.class
+com\omrbranch\page\PageObjectManager.class
+com\omrbranch\page\ExploreHotel.class
